@@ -6,6 +6,20 @@ Web Scraping Super Einfach. In diesem Node JS Tutorial zeige ich dir wie du ganz
 
 [![Tutorial bei Youtube](http://img.youtube.com/vi/p5eN6XB3EYU/0.jpg)](https://youtu.be/p5eN6XB3EYU)
 
+## 📺 Playlists
+
+[Webentwicklung für Anfänger](https://www.youtube.com/playlist?list=PLnqycjkeRGqmrzCAVKOc4RPhFWFMVpZ6x)
+
+[CSS Tutorials Deutsch](https://www.youtube.com/playlist?list=PLnqycjkeRGqmNb4zay7i46-57KgnO_xcD)
+
+[JavaScript Tutorials Deutsch](https://www.youtube.com/playlist?list=PLnqycjkeRGqlyZLCc63qMIdkYZhQ9M-Ij)
+
+[Visual Studio Code Tutorials](https://www.youtube.com/playlist?list=PLnqycjkeRGqmlJvXkxqSvIynlxaiKecPN)
+
+[Frameworks, Libraries und Tools](https://www.youtube.com/playlist?list=PLnqycjkeRGqnqag9WBK1THbdwsf2E-6cV)
+
+[Programmieren: Tipps, Ideen, Gedanken und Meinungen](https://www.youtube.com/playlist?list=PLnqycjkeRGqmxW1HaS897rvCapowxbtYH)
+
 ## Vernetze dich:
 
 [<img align="left" alt="programmierenmitmario.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
